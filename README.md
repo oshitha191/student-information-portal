@@ -19,7 +19,7 @@ Setup with XAMPP
 Install XAMPP: Download here
  and install.
 
-Clone Repository: Place it in htdocs.
+Clone Repository:
 
 git clone <repository_url>
 
@@ -39,5 +39,4 @@ Configure Connection: Update config.php with your MySQL credentials.
 Run App: Open http://localhost/<project_directory> in your browser.
 
 Usage :
-
 Use the interface to add, view, edit, or delete student records.
