@@ -16,8 +16,7 @@ Delete: Remove student records.
 
 Setup with XAMPP
 
-Install XAMPP: Download here
- and install.
+Install XAMPP.
 
 Clone Repository:
 
@@ -40,3 +39,4 @@ Run App: Open http://localhost/<project_directory> in your browser.
 
 Usage :
 Use the interface to add, view, edit, or delete student records.
+
