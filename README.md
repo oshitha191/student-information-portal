@@ -4,7 +4,7 @@ Student Information Portal
 
 A  PHP CRUD application to Create, Read, Update, and Delete student records.
 
-Features
+## Features
 
 Create: Add new students.
 
@@ -37,6 +37,13 @@ Configure Connection: Update config.php with your MySQL credentials.
 
 Run App: Open http://localhost/<project_directory> in your browser.
 
-Usage :
+## Usage :
 Use the interface to add, view, edit, or delete student records.
+
+
+## Project Architecture
+graph TD
+    A[User / Admin] --> B[Frontend (HTML, CSS, JS)]
+    B --> C[Backend (PHP)]
+    C --> D[Database (MySQL)]
 
