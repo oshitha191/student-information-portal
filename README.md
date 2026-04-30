@@ -42,8 +42,10 @@ Use the interface to add, view, edit, or delete student records.
 
 
 ## Project Architecture
+```mermaid
 graph TD
     A[User / Admin] --> B[Frontend (HTML, CSS, JS)]
     B --> C[Backend (PHP)]
     C --> D[Database (MySQL)]
+```
 
