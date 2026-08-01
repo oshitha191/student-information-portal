@@ -14,7 +14,7 @@ Update: Modify student info.
 
 Delete: Remove student records.
 
-Setup with XAMPP
+## Setup with XAMPP
 
 Install XAMPP.
 
