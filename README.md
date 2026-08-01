@@ -48,4 +48,6 @@ graph TD
     B --> C["Backend (PHP)"]
     C --> D["Database (MySQL)"]
 ```
+## Results:
+<img width="1536" height="1024" alt="SPortal output" src="https://github.com/user-attachments/assets/abd43615-809c-4a64-a245-5f1abb7a5d39" />
 
