@@ -4,8 +4,10 @@ Student Information Portal
 
 A  PHP CRUD application to Create, Read, Update, and Delete student records.
 
-## Features
+## Results:
+<img width="1536" height="1024" alt="SPortal output" src="https://github.com/user-attachments/assets/abd43615-809c-4a64-a245-5f1abb7a5d39" />
 
+## Features
 Create: Add new students.
 
 Read: View student records.
@@ -14,6 +16,17 @@ Update: Modify student info.
 
 Delete: Remove student records.
 
+## TechStack
+HTML,CSS,JavaScript,MySQL,PHP
+
+
+## Project Architecture
+```mermaid
+graph TD
+    A["User / Admin"] --> B["Frontend (HTML, CSS, JS)"]
+    B --> C["Backend (PHP)"]
+    C --> D["Database (MySQL)"]
+```
 ## Setup with XAMPP
 
 Install XAMPP.
@@ -36,18 +49,3 @@ Import database.sql from project folder.
 Configure Connection: Update config.php with your MySQL credentials.
 
 Run App: Open http://localhost/<project_directory> in your browser.
-
-## Usage :
-Use the interface to add, view, edit, or delete student records.
-
-
-## Project Architecture
-```mermaid
-graph TD
-    A["User / Admin"] --> B["Frontend (HTML, CSS, JS)"]
-    B --> C["Backend (PHP)"]
-    C --> D["Database (MySQL)"]
-```
-## Results:
-<img width="1536" height="1024" alt="SPortal output" src="https://github.com/user-attachments/assets/abd43615-809c-4a64-a245-5f1abb7a5d39" />
-
